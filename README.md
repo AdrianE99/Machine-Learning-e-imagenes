@@ -8,13 +8,13 @@ Cargar en la notebook utilizando la librería OpenCV una imagen de manera monocr
 * Mejorar la binarización con un filtro morfológico que crea adecuado.
 * Encontrar los bordes del objeto utilizando operaciones morfológicas o gradiente morfológico.
 
-### 2 Clasificación dentro de una imagen: 4 clases, 3 variables o features: R,G,B
+### 2 Clasificación dentro de una imagen:
 
-Cargue una imagen RGB a elección que a la vista tenga 4 clases identificables:
+Cargue una imagen RGB a elección con clases identificables:
 
 * Utilice k-medias con k=4 cantidad de clusters para realizar clasificación no supervisada de la imagen. Muestre los resultados, tanto en el espacio RGB como en la disposición de los clusters encontrados en la imagen.
 * Realice una clasificación semi-supervisada: 
- - etiquetando manualmente pixeles de las 4 clases. muestre los pixeles etiquetados en el espacio RGB. 
+ - etiquetando manualmente pixeles de las clases. muestre los pixeles etiquetados en el espacio RGB. 
  - reclasificando toda la imagen según esas cuatro clases.
  - Muestre los resultados y realice una mejora de la clasificación utilizando un filtro de moda
 
