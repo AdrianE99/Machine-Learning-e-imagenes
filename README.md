@@ -14,9 +14,9 @@ Cargue una imagen RGB a elección con clases identificables:
 
 * Utilice k-medias con k=4 cantidad de clusters para realizar clasificación no supervisada de la imagen. Muestre los resultados, tanto en el espacio RGB como en la disposición de los clusters encontrados en la imagen.
 * Realice una clasificación semi-supervisada: 
- - etiquetando manualmente pixeles de las clases. muestre los pixeles etiquetados en el espacio RGB. 
- - reclasificando toda la imagen según esas cuatro clases.
- - Muestre los resultados y realice una mejora de la clasificación utilizando un filtro de moda
+  - etiquetando manualmente pixeles de las clases. muestre los pixeles etiquetados en el espacio RGB. 
+  - reclasificando toda la imagen según esas cuatro clases.
+  - Muestre los resultados y realice una mejora de la clasificación utilizando un filtro de moda
 
 
 ### 3 Redes Neuronales
