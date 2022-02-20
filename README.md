@@ -21,6 +21,6 @@ Cargue una imagen RGB a elección con clases identificables:
 
 ### 3 Redes Neuronales
 Considerando la base de datos mnist
-* Utilice **dos** redes totalmente conectadas (fully conected) para clasificar cada imagen en los 10 tipos de dígitos y compárelas en cuanto a su desempeño y overfitting (sobreajuste a los datos de entrenamiento y mal ajuste en los datos de test).
+* Utilice **dos** redes totalmente conectadas (fully conected) para clasificar cada imagen en los 10 tipos de dígitos y comparar su desempeño y overfitting (sobreajuste a los datos de entrenamiento y mal ajuste en los datos de test).
 * Utilice **dos** redes neuronales convolucionales para clasificar cada imagen en los 10 tipos de dígitos y compárelas en cuanto a su complejidad (cantidad de parámetros) y overfitting. Comente resultados
 * Realice aumentación de datos utilizando una rotación de +5 y -5 grados de cada imagen.
